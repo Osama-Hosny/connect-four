@@ -20,4 +20,4 @@ the rules of the game is a bit modified .
 
 there are other features such as you can save the game and load it any time you want.
 
-there are the undo and redo option and it shows the time of the game .
+there are the undo and redo option .
